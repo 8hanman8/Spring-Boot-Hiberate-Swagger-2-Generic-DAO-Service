@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>demo</name>
-	<description>this is demo project</description>
+	<description>this is demo project description modified by bhasker</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
